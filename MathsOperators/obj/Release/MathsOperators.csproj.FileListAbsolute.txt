@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\C_Sharp_Projects\MathsOperators\MathsOperators\bin\Release\MathsOperators.exe
+\\Mac\Home\Desktop\C_Sharp_Projects\MathsOperators\MathsOperators\obj\Release\MathsOperators.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\C_Sharp_Projects\MathsOperators\MathsOperators\obj\Release\MainWindow.baml
+\\Mac\Home\Desktop\C_Sharp_Projects\MathsOperators\MathsOperators\obj\Release\MainWindow.g.cs
+\\Mac\Home\Desktop\C_Sharp_Projects\MathsOperators\MathsOperators\obj\Release\App.g.cs
+\\Mac\Home\Desktop\C_Sharp_Projects\MathsOperators\MathsOperators\obj\Release\MathsOperators_MarkupCompile.cache
+\\Mac\Home\Desktop\C_Sharp_Projects\MathsOperators\MathsOperators\obj\Release\MathsOperators.g.resources
+\\Mac\Home\Desktop\C_Sharp_Projects\MathsOperators\MathsOperators\obj\Release\MathsOperators.Properties.Resources.resources
+\\Mac\Home\Desktop\C_Sharp_Projects\MathsOperators\MathsOperators\obj\Release\MathsOperators.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\C_Sharp_Projects\MathsOperators\MathsOperators\obj\Release\MathsOperators.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C_Sharp_Projects\MathsOperators\MathsOperators\obj\Release\MathsOperators.exe
